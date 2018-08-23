@@ -1,4 +1,8 @@
 <?php
+
+	for($i = 1; $ < 1000; $i++) {
+		
+	} 
 	if(isset($_POST)) {
 		print_r($_POST);
 	}
