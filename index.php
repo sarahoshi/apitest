@@ -1,10 +1,7 @@
 <?php
 
-	for($i = 1; $i < 100000000; $i++) {
+	for($i = 1; $i < 100000; $i++) {
 		
-	} 
-	if(isset($_POST)) {
-		print_r($_POST);
 	}
 	if(isset($_POST['answers'])) {
 		// $post = json_decode($_POST['answers']);
